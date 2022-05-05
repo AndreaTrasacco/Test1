@@ -1,0 +1,1 @@
+{"usernames_ig":{"mappings":{"properties":{"uid_TK":{"type":"text","fields":{"keyword":{"type":"keyword","ignore_above":256}}},"username_IG":{"type":"text","fields":{"keyword":{"type":"keyword","ignore_above":256}}}}}}}
